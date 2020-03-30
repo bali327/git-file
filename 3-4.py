@@ -22,3 +22,5 @@ for i in w:
 w=''.join(m)
 print(d)
 print(w.upper())
+
+bali for testing(3-4)
